@@ -1,0 +1,38 @@
+Data Cleaning Summary - 2024-12-31 10:04:36
+
+
+PURCHASE_PRICES
+Rows: 12260
+Columns: 9
+No missing values
+--------------------------------------------------
+
+BEG_INV
+Rows: 206529
+Columns: 9
+No missing values
+--------------------------------------------------
+
+END_INV
+Rows: 224489
+Columns: 9
+No missing values
+--------------------------------------------------
+
+INVOICE_PURCHASES
+Rows: 5543
+Columns: 10
+No missing values
+--------------------------------------------------
+
+PURCHASES
+Rows: 2372471
+Columns: 16
+No missing values
+--------------------------------------------------
+
+SALES
+Rows: 1048575
+Columns: 14
+No missing values
+--------------------------------------------------
