@@ -4,6 +4,8 @@ A comprehensive end-to-end inventory management analysis for a spirits distribut
 
 ---
 
+![Alt txt](https://github.com/pavankakarrot/inventory-analysis/blob/main/Final_Dashboard.png)
+
 ## Table of Contents
 
 1. [Business Context](#business-context)  
